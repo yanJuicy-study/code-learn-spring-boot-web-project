@@ -52,7 +52,7 @@ Spring Data JPA 라이브러리 추가시 오류 발생
   spring.datasource.password=bootuser
   ```
 
-![image](https://user-images.githubusercontent.com/43159295/173236310-de3e63c7-3330-4bf8-9e02-ec7a35410267.png)
+![image](https://user-images.githubusercontent.com/43159295/173236628-68399852-6094-4e64-8840-4493f9a15b73.png)
 
 HikariPool이란?
 
@@ -100,7 +100,7 @@ JPA는 Java Persistence API의 약어로 ORM을 Java 언어에 맞게 사용하�
 
 JPA는 단순한 스펙이기 때문에 해당 스펙을 구현하는 구현체마다 이름이 다르다. 가장 유명한 것은 Hibernate 이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef49dcf4-344b-4382-8b31-4274fa887119/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173236712-2b0e75bc-d38d-4735-8b5a-6e6ee336c369.png)
 
 스프링 부트는 JPA의 구현체 중에서 Hibernate를 이용한다.
 
@@ -112,7 +112,7 @@ JPA는 단순한 스펙이기 때문에 해당 스펙을 구현하는 구현체�
 
 Spring Data JPA를 이용하면 다음과 같은 구성을 이용하게 된다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/108534df-ac46-40ba-81dd-350f6f34b9eb/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173236807-43ad72d4-295f-4dd1-be7c-fd140dc66171.png)
 
 ### 엔터티 클래스
 
@@ -157,7 +157,7 @@ spring.jpa.show-sql=true # SQL 출력
 
 Spring Data JPA는 JPA의 구현체인 Hibernate를 이용하기 위한 여러 API를 제공한다. 그중에서 가장 많이 사용할 것이 바로 JpaRepository라는 인터페이스다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3729a9e-8e49-46d4-9d3c-30b7d1dbfc83/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173236827-3dffa969-7b79-4ea1-81d9-eb3f70b08838.png)
 
 JpaRepository를 상속한 인터페이스 선언만으로도 자동으로 스프링 빈으로 등록된다.
 
@@ -170,7 +170,7 @@ Repository 인터페이스 테스트 시 자동으로 생성되는 Proxy 클래�
 
 [https://velog.io/@prayme/Dynamic-Proxy와-Spring-Data-JPA](https://velog.io/@prayme/Dynamic-Proxy%EC%99%80-Spring-Data-JPA)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/417024bf-2b87-49bf-aec7-3f0cadc15c19/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/173236854-3420e34f-5cc3-46a8-8060-4238ec2dad4d.png)
 
 - Repository Test
 
