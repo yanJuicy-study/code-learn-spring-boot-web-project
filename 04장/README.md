@@ -185,7 +185,8 @@ gradle 5.0 이상부터 다음과 같이 구성
 
 - Q도메인 생성 위치
   자동으로 생성됨
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25f6a27a-8435-45a0-8b2d-26328009d121/Untitled.png)
+
+![image](https://user-images.githubusercontent.com/43159295/173422050-7c69bf47-a3e7-40fa-a634-53c8643c3aa5.png)
 
 ### Querydsl 사용법
 
