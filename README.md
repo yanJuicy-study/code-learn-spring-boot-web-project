@@ -14,6 +14,7 @@
 | Chapter 03 | 오유석 | [발표 자료](./03장/README.md) |
 | Chapter 04 | 이한주 | [발표 자료](./04장/README.md) |
 | Chapter 05 | 오유석 | [발표 자료](#)                |
+| Chapter 06 | 이한주 | [발표 자료](./06장/README.md)                |
 
 ## 발표 순서
 
